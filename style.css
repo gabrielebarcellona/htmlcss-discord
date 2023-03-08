@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background-image: url(img/jumbo.png);
+    background-size:100% ;
+    height: 470px;
+  } 
+
+nav{
+    color: white;
+    height: 70px;
+    padding-top: 20px;
+}
+.first-ul{
+    display: flex;
+    list-style: none;
+    justify-content:space-between;
+}
+
+.second-ul{
+    display: flex;
+    list-style: none;        
+}
+
+.distance-li{
+    margin-right: 40px;
+}
+
+.whitebutton{
+    width: 50px;
+    height:30x;
+    border-radius: 15px 15px;
+    border: solid 1px white;
+}
+.container{
+    color: white;
+    text-align: center;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+h1{
+    padding-bottom: 25px;
+}
+
+.whitebutton2 {
+    width: 150px;
+    height:40px;
+    border-radius: 15px 15px;
+    }
+    .blackbutton{
+        margin-top: 25px;
+        width: 170px;
+        height:40px;
+        border-radius: 15px 15px;
+        border: solid 1px black;
+    
+    }
+
+    .container2{
+        display: flex;
+        max-width: 800px;
+        margin-left: 100px;
+        height: 460px;
+        padding-top:30px ;
+    }  
+.first-image{
+    min-height: 300px;
+    width: 500px;
+    margin-left: 170px;
+}
+.first-text{
+    margin-left: 170px;
+    margin-top: 20px;
+}
+.STRONG{
+    font-size: 25px;
+}
+.container3{
+    display: flex;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 150px;
+}
+
+.container4{
+    display: flex;
+    margin-top: 150px; 
+    padding-left: 100px;
+}
+.second-text{ 
+    width: 30%;
+    
+}
+  
+      
+
+.third-text{ 
+  margin-right: 200px;
+  margin-top: 20px ;
+       
+  }
+  .container5{
+    text-align: center;
+    padding-top: 30px;
+    margin-top: 30px;
+    padding-bottom: 30px;
+  }
+
+.first-p{
+    max-width: 700px;
+    margin: auto;
+}
+
+  .bluebutton{
+    margin-top: 25px;
+        width: 170px;
+        height:40px;
+        border-radius: 15px 15px;
+        border: solid 1px;
+        background-color: rgb(107, 107, 212);
+        color: white;
+  }
+
+.first-h2{
+    background-image: url(img/stars.svg);
+    background-position: center;
+}
+  
+  .container6{
+    display: flex;
+    background-color: black; 
+    height: 700px;
+  }
+
+ .social{
+    color: white;
+ }
+ .logo{
+    width: 40px;
+    height: 20px;
+ }
+   .social-parol{
+    color: rgb(74, 74, 160);
+    padding-bottom: 10px;
+   }
+.loghi-social{
+    margin-top: 10px;
+}
+   .list{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 150px;
+
+   }

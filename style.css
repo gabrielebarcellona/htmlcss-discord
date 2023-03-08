@@ -6,6 +6,7 @@
 
 body{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.4;
 }
 header{
     background-image: url(img/jumbo.png);

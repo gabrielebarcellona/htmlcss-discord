@@ -22,6 +22,8 @@ nav{
     display: flex;
     list-style: none;
     justify-content:space-between;
+    margin: auto;
+    max-width: 1200px;
 }
 
 .second-ul{
@@ -34,8 +36,8 @@ nav{
 }
 
 .whitebutton{
-    width: 50px;
-    height:30x;
+   width: 90px;
+   height: 40px;
     border-radius: 15px 15px;
     border: solid 1px white;
 }
